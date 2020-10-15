@@ -1,10 +1,10 @@
-# :star: git-cheatsheet how to use github :star:
+# :star: git-cheatsheet on how to use github for a beginner :star:
 
 This Repository is a guide to all the git commands you need to use in case any of these situations arise
 
 ## Basic Commands :v:
 
-- Clone a Repository
+- How to clone a Repository
 ```sh
 git init
 
