@@ -1,4 +1,4 @@
-# :star: git-cheatsheet on how to use github for a beginner :star:
+# :star: GIT-Cheatsheet on how to use github :star:
 
 This Repository is a guide to all the git commands you need to use in case any of these situations arise
 
